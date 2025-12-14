@@ -1,2 +1,2 @@
 print("config python")
-print("version3")
+print("version 3")
